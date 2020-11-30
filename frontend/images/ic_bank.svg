@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="ic_bank" transform="translate(-170 -547)">
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="22.5" cy="22.5" r="22.5" transform="translate(170 547)" fill="#deecf7"/>
+    <g id="Rectangle_26" data-name="Rectangle 26" transform="translate(178 572)" fill="none" stroke="#0013be" stroke-width="2">
+      <rect width="29" height="2" stroke="none"/>
+      <rect x="1" y="1" width="27" fill="none"/>
+    </g>
+    <g id="Rectangle_27" data-name="Rectangle 27" transform="translate(178 560)" fill="none" stroke="#0013be" stroke-width="2">
+      <rect width="29" height="19" rx="3" stroke="none"/>
+      <rect x="1" y="1" width="27" height="17" rx="2" fill="none"/>
+    </g>
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="2.5" cy="2.5" r="2.5" transform="translate(182 564)" fill="#4fffff"/>
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="2.5" cy="2.5" r="2.5" transform="translate(185 564)" fill="#0013be"/>
+  </g>
+</svg>
